@@ -6,3 +6,10 @@
 ## Materials for basic metrics
 1. [causal inference mixtape](https://mixtape.scunning.com/)
 2. [econometrics II CMU](https://donskerclass.github.io/EconometricsII/Econometrics.html)
+## Stata
+## R
+[R coder](https://r-coder.com/)
+## Python for data
+[QuantEcon](https://quantecon.org/)
+## Princeton Predoc materials
+[ESOC-Predoc-Training](https://github.com/leehygh/ESOC-Predoc-Training)
