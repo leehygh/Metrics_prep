@@ -5,7 +5,7 @@
 2. [cheat sheet of probability and stats 2](https://stanford.edu/~shervine/teaching/cme-106/)
 ## Materials for basic metrics
 1. [causal inference mixtape](https://mixtape.scunning.com/)
-2. [econometrics II CMU](https://donskerclass.github.io/EconometricsII/Econometrics.html)
+2. [econometrics II CMU](https://donskerclass.github.io/EconometricsII.html)
 3. [NYU first year PhD metrics](https://www.ptscott.com/teaching/econometrics2018/)
 4. [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)
 ## Materials for linear algebra
