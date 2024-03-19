@@ -7,6 +7,7 @@
 1. [causal inference mixtape](https://mixtape.scunning.com/)
 2. [econometrics II CMU](https://donskerclass.github.io/EconometricsII/Econometrics.html)
 3. [NYU first year PhD metrics](https://www.ptscott.com/teaching/econometrics2018/)
+4. [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)
 ## Materials for linear algebra
 1. [Stanford applied linear algebra](https://web.stanford.edu/~boyd/vmls/vmls-slides.pdf)
 ## Stata
