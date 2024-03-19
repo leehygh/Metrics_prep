@@ -6,6 +6,7 @@
 ## Materials for basic metrics
 1. [causal inference mixtape](https://mixtape.scunning.com/)
 2. [econometrics II CMU](https://donskerclass.github.io/EconometricsII/Econometrics.html)
+3. [NYU first year PhD metrics](https://www.ptscott.com/teaching/econometrics2018/)
 ## Stata
 ## R
 [R coder](https://r-coder.com/)
