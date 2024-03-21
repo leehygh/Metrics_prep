@@ -1,0 +1,67 @@
+---
+title: "Causal inference notes"
+subtitle: "note 1 divine form of causal inference"
+author: "Haoyue"
+date: "`r Sys.Date()`"
+output: 
+ beamer_presentation:
+   slide_level: 3
+   theme: Antibes
+   colortheme: "beaver"
+   fonttheme: "structurebold"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# The divine form of causal inference
+
+- The comparison of the outcomes in two worlds
+  + the real world
+  + the counterfactual world
+- $Y_{1i} - Y_{0i}$
+
+# The differences of the experiments in natural and social sciences
+
+- Natural science: 
+  + controlled experiment
+  + output: experimental data(with the data in the two worlds)
+- social science:
+  + nearly no controlled experiment
+  + output: observable data(with the data only in the one world, missing data problem)
+
+# The difficulty of experiments in social sciences
+
+- How to do experiments with observable data
+- Put it another way, it is a missing data problem
+
+# What can we do with an observable dataset?
+
+## What we can do easily
+
+- Calculate its mean value of a variable
+- Calculate the difference of two groups: $E(Y|D = 1) - E(Y|D = 0)$
+  + notation: Y is the actual observable outcome, $Y_{1}$ or $Y_{0}$ is the potential possibilities
+- What is the problem of getting such a value with data only in one world?
+
+## But it is not accurate to explore the causal effect relationship
+
+- Make all other conditions the same, except for what you are exploring!
+  + actually, the (D = 1) and the (D = 0) groups are different other than the D condition!
+  + think with examples
+  
+## How to solve this problem?
+
+- If we can do experiment, that is fantastic, just like what happens in natural sciences...
+- Sometimes, we can do experiment, this is called RCT
+  + it is intervened by us, so all other conditions are the same, except for D
+  + in observable data, it is naturally formed, D's difference will bring more differences to the two groups
+  
+
+  
+  
+
+
+
+
