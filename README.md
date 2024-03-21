@@ -10,6 +10,7 @@
 3. [NYU first year PhD metrics](https://www.ptscott.com/teaching/econometrics2018/)
 4. [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)
 5. [MIT 14.771/ Harvard 2390b “Empirical Methods” handout](https://web.mit.edu/14.771/www/emp_handout.pdf)
+6. [Program Evaluation for Public Service](https://evalf21.classes.andrewheiss.com/)
 ## Materials for linear algebra
 1. [Stanford applied linear algebra](https://web.stanford.edu/~boyd/vmls/vmls-slides.pdf)
 ## Stata
