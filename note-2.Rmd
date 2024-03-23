@@ -1,0 +1,102 @@
+---
+title: "Note-2"
+subtitle: "Introduction to DAG"
+author: "Haoyue"
+date: "`r Sys.Date()`"
+output: 
+ beamer_presentation:
+   latex_engine: xelatex
+   slide_level: 3
+   theme: Antibes
+   colortheme: "beaver"
+   fonttheme: "structurebold"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# The basic settings of this introduction
+
+No $\leftrightarrow$ causal relationships in our analysis
+
+# Roadmap of this note 2
+
+- backdoor path
+
+- collider path
+
+- mediator path
+
+- block the backdoor paths
+
+- backdoor criteria
+
+
+## Backdoor path
+
+```{r echo=FALSE, fig.height=3, fig.width=5, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(ggdag)
+library(dagitty)
+
+backdoor <- dagify(Y ~ D + X,
+                   D ~ X,
+                   exposure = "D",
+                   outcome = "Y")
+ggdag_status(backdoor) + theme_dag()
+```
+
+---
+
+- X is the variable contributing to the backdoor path
+
+- The existence of X makes the regression $y = \delta d + \varepsilon$ not accurate
+
+- We need to include X to the regression
+
+## Collider path
+
+```{r echo=FALSE, fig.height=3, fig.width=5, message=FALSE, warning=FALSE, paged.print=TRUE}
+backdoor <- dagify(X ~ Y + D,
+                   Y ~ D,
+                   exposure = "D",
+                   outcome = "Y")
+ggdag_status(backdoor) + theme_dag()
+```
+
+---
+
+- collider path is blocked
+
+- we should not include X into the regression
+
+- even if there is X, the regression $y = \delta d + \varepsilon$ is still accurate
+
+- if we condition on the X, the closed collider path is open to create omited variable bias in regression 
+
+## Mediator 
+
+```{r echo=FALSE, fig.height=3, fig.width=5, message=FALSE, warning=FALSE, paged.print=TRUE}
+backdoor <- dagify(Y ~ D + X,
+                   X ~ D,
+                   exposure = "D",
+                   outcome = "Y")
+ggdag_status(backdoor) + theme_dag()
+```
+
+---
+
+the mediator path is usually used in a more complex graph to form backdoor path
+
+## Block backdoor path
+
+- block backdoor path by conditioning on the variable
+
+- it means to add the variable into the regression formula
+
+## Backdoor criteria
+
+- by conditioning on several variables(as few as possible), we can
+  + block all backdoor paths
+  + we don't open a closed collider path
