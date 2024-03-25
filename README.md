@@ -13,7 +13,7 @@
 6. [Program Evaluation for Public Service](https://evalf21.classes.andrewheiss.com/)
 ## Materials for mathematical foundations
 1. [Stanford applied linear algebra](https://web.stanford.edu/~boyd/vmls/vmls-slides.pdf)
-2. [UCLA math camp](https://economics.ucla.edu/graduate/current-students/year-1/#:~:text=At%20the%20end%20of%20math,in%20first%20year%20graduate%20classes.)
+2. [UCLA math camp](https://economics.ucla.edu/graduate/current-students/year-1/)
 ## Stata
 ## R
 [R coder](https://r-coder.com/)
