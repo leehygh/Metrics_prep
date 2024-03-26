@@ -19,5 +19,6 @@
 [R coder](https://r-coder.com/)
 ## Python for data
 [QuantEcon](https://quantecon.org/)
+[Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 ## Princeton Predoc materials
 [ESOC-Predoc-Training](https://github.com/leehygh/ESOC-Predoc-Training)
