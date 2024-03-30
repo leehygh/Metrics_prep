@@ -20,5 +20,6 @@
 ## Python for data
 1. [QuantEcon](https://quantecon.org/)
 2. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+3. [Python Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 ## Princeton Predoc materials
 [ESOC-Predoc-Training](https://github.com/leehygh/ESOC-Predoc-Training)
