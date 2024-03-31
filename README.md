@@ -11,6 +11,7 @@
 4. [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)
 5. [MIT 14.771/ Harvard 2390b “Empirical Methods” handout](https://web.mit.edu/14.771/www/emp_handout.pdf)
 6. [Program Evaluation for Public Service](https://evalf21.classes.andrewheiss.com/)
+7. [econometrics with R](https://www.econometrics-with-r.org/)
 ## Materials for mathematical foundations
 1. [Stanford applied linear algebra](https://web.stanford.edu/~boyd/vmls/vmls-slides.pdf)
 2. [UCLA math camp](https://economics.ucla.edu/graduate/current-students/year-1/)
