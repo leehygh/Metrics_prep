@@ -15,6 +15,7 @@
 ## Materials for mathematical foundations
 1. [Stanford applied linear algebra](https://web.stanford.edu/~boyd/vmls/vmls-slides.pdf)
 2. [UCLA math camp](https://economics.ucla.edu/graduate/current-students/year-1/)
+3. [Introduction to Linear Algebra](https://web.stanford.edu/~boyd/vmls/)
 ## Stata
 ## R
 [R coder](https://r-coder.com/)
