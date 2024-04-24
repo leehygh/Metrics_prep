@@ -18,6 +18,7 @@
 3. [Introduction to Linear Algebra](https://web.stanford.edu/~boyd/vmls/)
 4. [statistics for application, MIT OCW](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/pages/lecture-slides/)
 5. [statistical inference]{https://www2.stat.duke.edu/courses/Spring22/sta732.01/}
+6. [theoritical stats]{https://www.stat.berkeley.edu/~wfithian/courses/stat210a/}
 ## Stata
 ## R
 [R coder](https://r-coder.com/)
