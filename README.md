@@ -17,6 +17,7 @@
 2. [UCLA math camp](https://economics.ucla.edu/graduate/current-students/year-1/)
 3. [Introduction to Linear Algebra](https://web.stanford.edu/~boyd/vmls/)
 4. [statistics for application, MIT OCW](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/pages/lecture-slides/)
+5. [statistical inference]{https://www2.stat.duke.edu/courses/Spring22/sta732.01/}
 ## Stata
 ## R
 [R coder](https://r-coder.com/)
