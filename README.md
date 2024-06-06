@@ -20,6 +20,8 @@
 5. [statistical inference](https://www2.stat.duke.edu/courses/Spring22/sta732.01/)
 6. [theoritical stats](https://www.stat.berkeley.edu/~wfithian/courses/stat210a/)
 ## Stata
+1. [cheatsheet for stata](https://www.stata.com/bookstore/statacheatsheets.pdf)
+2. [causal inference mixtape](https://mixtape.scunning.com/)
 ## R
 [R coder](https://r-coder.com/)
 ## Python for data
