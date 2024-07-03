@@ -23,7 +23,8 @@
 1. [cheatsheet for stata](https://www.stata.com/bookstore/statacheatsheets.pdf)
 2. [causal inference mixtape](https://mixtape.scunning.com/)
 ## R
-[R coder](https://r-coder.com/)
+1. [R coder](https://r-coder.com/)
+2. [Gabors Data Analysis](https://gabors-data-analysis.com/chapter-details/)
 ## Python for data
 1. [QuantEcon](https://quantecon.org/)
 2. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
