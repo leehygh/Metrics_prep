@@ -28,6 +28,8 @@
 ## R
 1. [R coder](https://r-coder.com/)
 2. [Gabors Data Analysis](https://gabors-data-analysis.com/chapter-details/)
+3. [Stats 545 UBC](https://stat545.com/)
+4. [Purrr package tutorial](https://jennybc.github.io/purrr-tutorial/index.html)
 ## Python for data
 1. [QuantEcon](https://quantecon.org/)
 2. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
@@ -35,3 +37,5 @@
 4. [Matplotlib cheatsheet in github](https://github.com/leehygh/cheatsheets_py)
 ## Princeton Predoc materials
 [ESOC-Predoc-Training](https://github.com/leehygh/ESOC-Predoc-Training)
+## Git
+[Git with R](https://happygitwithr.com/)
