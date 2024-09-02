@@ -30,6 +30,7 @@
 2. [Gabors Data Analysis](https://gabors-data-analysis.com/chapter-details/)
 3. [Stats 545 UBC](https://stat545.com/)
 4. [Purrr package tutorial](https://jennybc.github.io/purrr-tutorial/index.html)
+5. [statistical computing in Duke University](https://sta323-sp22.github.io/)
 ## Python for data
 1. [QuantEcon](https://quantecon.org/)
 2. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
