@@ -44,4 +44,5 @@
 1. [Google machine learning crash course](https://developers.google.com/machine-learning/crash-course/linear-regression?hl=zh-cn)
 2. [Master level machine learning course in econometrics](https://github.com/edrubin/EC524W20)
 ## Some pages of useful courses
-1. [some undergrad courses](https://mine-cr.com/teaching/)
+1. [some undergrad courses from the first prof](https://mine-cr.com/teaching/)
+2. [some undergrad courses from the second prof](https://maria-tackett.netlify.app/project/)
