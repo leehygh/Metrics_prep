@@ -37,6 +37,7 @@
 3. [Python Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 4. [Matplotlib cheatsheet in github](https://github.com/leehygh/cheatsheets_py)
 5. [python for economists](https://egallic.fr/Enseignement/Python/en/_main.pdf)
+6. [coding for economists mainly in python](https://aeturrell.github.io/coding-for-economists/intro.html#)
 ## Princeton Predoc materials
 [ESOC-Predoc-Training](https://github.com/leehygh/ESOC-Predoc-Training)
 ## Git
