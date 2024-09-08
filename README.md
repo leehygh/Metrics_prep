@@ -15,6 +15,7 @@
 8. [A 4-day time series course](https://andrewcparnell.github.io/TSDA/)
 9. [Data analysis course slides](https://gabors-data-analysis.com/chapter-details/)
 10. [ScPoMetrics online book](https://scpoecon.github.io/ScPoEconometrics/)
+11. [Time Series econometrics](https://www.kevinkotze.org/time-series-econometrics)
 ## Materials for mathematical foundations
 1. [Stanford applied linear algebra](https://web.stanford.edu/~boyd/vmls/vmls-slides.pdf)
 2. [UCLA math camp](https://economics.ucla.edu/graduate/current-students/year-1/)
